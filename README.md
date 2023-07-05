@@ -1,6 +1,6 @@
 # fabulaflutter
 
-A new Flutter project.
+An intro to Flutter based on https://docs.flutter.dev/get-started/codelab.
 
 ## Getting Started
 
